@@ -1,0 +1,6 @@
+/dev/block/sde13 /system ext4 rw 0 0
+/dev/block/sda9 /data ext4 rw 0 0
+/dev/block/sda2 /cache ext4 rw 0 0
+/dev/block/sdf5 /persist ext4 rw 0 0
+ /external_sd vfat rw 0 0
+ /usb-otg vfat rw 0 0

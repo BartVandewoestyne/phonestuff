@@ -1,0 +1,7 @@
+/dev/block/sdf5: UUID="57f8f4bc-abf4-655f-bf67-946fc0f9f25b" TYPE="ext4"
+/dev/block/sde16: UUID="00BC-614E" TYPE="vfat"
+/dev/block/sde13: LABEL="system" UUID="da594c53-9beb-f85c-85c5-cedf76546f7a" TYPE="ext4"
+/dev/block/sde8: LABEL="dsp" UUID="af32c008-2a39-7e5b-a5dc-201456d93103" TYPE="ext4"
+/dev/block/sde7: UUID="00BC-614E" TYPE="vfat"
+/dev/block/sda9: UUID="57f8f4bc-abf4-655f-bf67-946fc0f9f25b" TYPE="ext4"
+/dev/block/sda2: UUID="57f8f4bc-abf4-655f-bf67-946fc0f9f25b" TYPE="ext4"

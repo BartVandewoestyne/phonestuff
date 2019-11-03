@@ -1,0 +1,19 @@
+Note: sector size is 4096 (not 512)
+Found valid GPT with protective MBR; using GPT
+
+Disk /dev/block/sda: 111558656 sectors, 1600M
+Logical sector size: 4096
+Disk identifier (GUID): 98101b32-bbe2-4bf2-a06e-2bb33d000c20
+Partition table holds up to 12 entries
+First usable sector is 6, last usable sector is 13944826
+
+Number  Start (sector)    End (sector)  Size       Code  Name
+   1               6               7        8192   0700  ssd
+   2               8          204807        800M   0700  cache
+   3          204808          205063       1024K   0700  misc
+   4          205064          205191        512K   0700  keystore
+   5          205192          205223        128K   0700  devcfg
+   6          205224          205255        128K   0700  fbop
+   7          205256          205383        512K   0700  frp
+   8          205384          205511        512K   0700  cryptkey
+   9          205512        13944826       52.4G   0700  userdata

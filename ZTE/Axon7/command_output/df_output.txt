@@ -1,0 +1,6 @@
+Filesystem                Size      Used Available Use% Mounted on
+tmpfs                     1.8G     20.0K      1.8G   0% /dev
+tmpfs                     1.8G     24.0K      1.8G   0% /tmp
+/dev/block/sda9          51.5G     22.9G     28.5G  45% /data
+/dev/block/sda9          51.5G     22.9G     28.5G  45% /sdcard
+/dev/block/sda2         774.9M      1.6M    757.3M   0% /cache
